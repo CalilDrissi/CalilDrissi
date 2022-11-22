@@ -1,7 +1,7 @@
 [![MasterHead](https://steamuserimages-a.akamaihd.net/ugc/779617186786599025/41F1A06D7D8CE3463C235B9637058FD9EDFDF583/?imw=637&imh=358&ima=cover&impolicy=Letterbox&imcolor=%23000000&letterbox=true)](https://khalildrissi.tech)
 
 <h1 align="center">Hi 👋, I'm Khalil Drissi</h1>
-<h3 align="center">Flutter & Dart Developer from Morocco.</h3>
+<h3 align="center">Flutter & Dart Software Developer.</h3>
 
 <img align="center" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
 
