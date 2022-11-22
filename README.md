@@ -1,12 +1,9 @@
-
 [![MasterHead](https://steamuserimages-a.akamaihd.net/ugc/779617186786599025/41F1A06D7D8CE3463C235B9637058FD9EDFDF583/?imw=637&imh=358&ima=cover&impolicy=Letterbox&imcolor=%23000000&letterbox=true)](https://khalildrissi.tech)
-
 <h1 align="center">Hi 👋, I'm Khalil Drissi</h1>
-<h3 align="center">Flutter & Dart Software Developer</h3>
+<h3 align="center">Flutter & Dart Developer from Morocco.</h3>
+
 
 <img align="center" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=calildrissi" alt="calildrissi" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/calildrissi" target="blank"><img src="https://img.shields.io/twitter/follow/calildrissi?logo=twitter&style=for-the-badge" alt="calildrissi" /></a> </p>
 
