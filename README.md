@@ -1,18 +1,11 @@
 [![MasterHead](https://steamuserimages-a.akamaihd.net/ugc/779617186786599025/41F1A06D7D8CE3463C235B9637058FD9EDFDF583/?imw=637&imh=358&ima=cover&impolicy=Letterbox&imcolor=%23000000&letterbox=true)](https://khalildrissi.tech)
 
 <h1 align="center">Hi 👋, I'm Khalil Drissi</h1>
-<h3 align="center">Flutter & Dart Software Developer.</h3>
+<h3 align="center">I build software</h3>
 
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300"/>
 
 <p align="left"> <a href="https://twitter.com/calildrissi" target="blank"><img src="https://img.shields.io/twitter/follow/calildrissi?logo=twitter&style=for-the-badge" alt="calildrissi" /></a> </p>
-
-- 🔭 I’m currently working on **🍔 MagicMenu app**
-
-- 🌱 I’m currently learning **Go backend development**
-
-- 👨‍💻 All of my projects are available at [calil.tech](calil.tech)
-
 
 [![Calil's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=calildrissi&&theme=xcode)](https://github.com/calildrissi)
 
